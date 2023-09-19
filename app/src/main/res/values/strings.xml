@@ -1,0 +1,8 @@
+<resources>
+    <!-- Сделано Ivan Skvorcov-->
+    <string name="app_name">SnackBarTestApp(IvanSk)</string>
+    <string name="action_settings">Settings</string>
+    <string name="defualt_snackbar_txt">Стандартный SnackBar</string>
+    <string name="call_action_snackbar_txt">SnackBar с кнопкой</string>
+    <string name="canstom_snackbar_txt">Нестандартный SnackBar</string>
+</resources>
